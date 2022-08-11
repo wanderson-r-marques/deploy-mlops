@@ -29,6 +29,8 @@ As informações contidas no dataset abrangem detalhes específicos de cada ocor
     - Realiza a predição e criação do modelo
 * final_project_test.py
     - Realiza o teste do modelo com a classificação
+* fires_1996to2005_set_test.csv
+    - Arquivo de teste de classificação
 * artifacts/
     - Possui o modelo salvo que foi colocado em produção, os encoders utilizados no treinamento do modelo, a matriz de confusão, a curva ROC e a curva Precision Recall      
  
