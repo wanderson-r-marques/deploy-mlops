@@ -21,9 +21,9 @@ As informações contidas no dataset abrangem detalhes específicos de cada ocor
     - Dados dos incêndios registrados na província de Alberta do ano de 2006 até 2018  
 * features_alberta_canada.pdf
     - Descreve cada feature utilizada no projeto 
-* final_project_trainiing_decision_tree.py
+* final_project_training_decision_tree.py
     - Código com pré-processamento e treinamento do Decision Tree 
-* final_project_trainiing_random_forest.py
+* final_project_training_random_forest.py
     - Código com pré-processamento e treinamento do Random Forest
 * final_project_predict.py
     - Realiza a predição e criação do modelo
